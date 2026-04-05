@@ -14,7 +14,7 @@ Install these two apps on your Android device before starting:
 1. Open Termux and clone this repository:
    ```bash
    pkg install git -y
-   git clone [https://github.com/jarvesusaram99/ubuntu-on-android.git](https://github.com/jarvesusaram99/ubuntu-on-android.git)
+   git clone [https://github.com/peakx11/ubuntu-on-android.git](https://github.com/peakx11/ubuntu-on-android.git)
    cd ubuntu-on-android
    chmod +x setup.sh launch.sh
    
